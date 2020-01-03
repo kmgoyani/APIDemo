@@ -1,40 +1,59 @@
 {
-"Users": [
-      {
-        "key": 1,
-        "name": "Komal Goyani",
-        "description": "React Native Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
-      },
-      {
-        "key": 2,
-        "name": "Krishna Savani",
-        "description": "Wordpress Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
-      },
-      {
-        "key": 3,
-        "name": "Vaibhavi Sojitra",
-        "description": "Laravel Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
-      },
-      {
-        "key": 4,
-        "name": "Urvisha Sorathiya",
-        "description": "Android Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
-      },
-      {
-        "key": 5,
-        "name": "Krupa Detroja",
-        "description": "iOS Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
-      },
-      {
-        "key": 6,
-        "name": "Mansi Savaliya",
-        "description": "React js Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
-      }
-    ]
+	"Users": [{
+			"key": 1,
+			"name": "Komal Goyani",
+			"description": "React Native Developer",
+			"imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+			"emailid": "komal@gmail.com"
+		},
+		{
+			"key": 2,
+			"name": "Krishna Savani",
+			"description": "Wordpress Developer",
+			"imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+			"emailid": "krishna@gmail.com"
+		},
+		{
+			"key": 3,
+			"name": "Vaibhavi Sojitra",
+			"description": "Laravel Developer",
+			"imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+			"emailid": "vaibhavi@gmail.com"
+		},
+		{
+			"key": 4,
+			"name": "Urvisha Sorathiya",
+			"description": "Android Developer",
+			"imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+			"emailid": "urvisha@gmail.com"
+		},
+		{
+			"key": 5,
+			"name": "Krupa Detroja",
+			"description": "iOS Developer",
+			"imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+			"emailid": "krupa@gmail.com"
+		},
+		{
+			"key": 6,
+			"name": "Mansi Savaliya",
+			"description": "React js Developer",
+			"imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+			"emailid": "mansi@gmail.com"
+		},
+		{
+			"key": 7,
+			"name": "Aarzu Rabadiya",
+			"description": "React js Developer",
+			"imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+			"emailid": "aarzu@gmail.com"
+		},
+		{
+			"key": 6,
+			"name": "Bhoomi Khalpada",
+			"description": "Designer",
+			"imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+			"emailid": "bhoomi@gmail.com"
+		}
+	]
 }
