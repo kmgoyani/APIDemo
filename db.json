@@ -4,37 +4,37 @@
         "key": 1,
         "name": "Komal Goyani",
         "description": "React Native Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
       },
       {
         "key": 2,
         "name": "Krishna Savani",
         "description": "Wordpress Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
       },
       {
         "key": 3,
         "name": "Vaibhavi Sojitra",
         "description": "Laravel Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
       },
       {
         "key": 4,
         "name": "Urvisha Sorathiya",
         "description": "Android Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
       },
       {
         "key": 5,
         "name": "Krupa Detroja",
         "description": "iOS Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
       },
       {
         "key": 6,
         "name": "Mansi Savaliya",
         "description": "React js Developer",
-        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+        "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
       },
     ]
 }
