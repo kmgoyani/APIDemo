@@ -49,11 +49,19 @@
 			"emailid": "aarzu@gmail.com"
 		},
 		{
-			"key": 6,
+			"key": 8,
 			"name": "Bhoomi Khalpada",
 			"description": "Designer",
 			"imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
 			"emailid": "bhoomi@gmail.com"
+		}
+		  ,
+		{
+			"key": 9,
+			"name": "Hetal Sodvadiya",
+			"description": "React js Developer",
+			"imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png",
+			"emailid": "hetal@gmail.com"
 		}
 	]
 }
